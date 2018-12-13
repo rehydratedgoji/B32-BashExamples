@@ -1,4 +1,4 @@
-#!/bin/bash
+if#!/bin/bash
 
 echo -n "Texte : "
 

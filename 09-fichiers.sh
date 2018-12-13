@@ -1,4 +1,4 @@
-#!/bin/bash
+then#!/bin/bash
 
 if test -e $1 # -e = does it exist?
 
